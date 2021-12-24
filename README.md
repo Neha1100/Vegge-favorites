@@ -1,2 +1,2 @@
 # Vegge-favorites Project
-Added Authors Name to each reciepy file
+Added Authors Name to each receipe file
